@@ -3,7 +3,7 @@
 ```diff
 @@average gentoo user@@
 + golang & typescript developer
-- my gender is linus torvalds
+- developing kernel modules in vim xdd
 ! opensource enjoyer
 # 📖 contact me on discord or matrix: corruptmemory#3718 and farlowee:matrix.org
 ```

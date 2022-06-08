@@ -2,8 +2,8 @@
 
 ```diff
 @@average gentoo user@@
-+ golang & typescript developer
-- developing kernel modules in vim xdd
++ с & typescript developer
+- c for soul
 ! opensource enjoyer
-# 📖 contact me on discord or matrix: corruptmemory#3718 and farlowee:matrix.org
+# 📖 contact me on discord or via email: corruptmemory#3718, corrupt@laem.fun
 ```

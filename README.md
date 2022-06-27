@@ -1,7 +1,7 @@
 <img src="https://avatars.githubusercontent.com/u/88046785" align="left" height="175"/>
 
 ```diff
-@@average gentoo user@@
+@@hello, i'm corruptmemry@@
 + с & typescript developer
 - c for soul
 ! opensource enjoyer

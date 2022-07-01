@@ -5,5 +5,5 @@
 + с & typescript developer
 - c for soul
 ! opensource enjoyer
-# 📖 contact me on discord or via email: farlowe#3878, farlowe@laem.fun
+# 📖 contact me on discord or via email: crptmemory#3878, farlowe@laem.fun
 ```

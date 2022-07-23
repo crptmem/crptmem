@@ -4,6 +4,6 @@
 @@hello, i'm corruptmemry@@
 + с & typescript developer
 - c for soul
-! opensource enjoyer, love basil
+! opensource enjoyer
 # 📖 contact me on discord or via email: crptmemory#3878, farlowe@laem.fun
 ```

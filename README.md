@@ -5,6 +5,6 @@
 + с & typescript developer
 - c for soul
 ! opensource enjoyer
-# 📖 contact me on discord or via email: corruptmemory#1917 // corrupt@tlf.pw
-# also check my mastodon https://tlf.pw/@corrupt
+# 📖 contact me on discord or via email: corruptmemory#1917 // corrupt@yee.pw
+# also check my mastodon https://kijy.de/@corrupt
 ```

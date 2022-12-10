@@ -4,7 +4,6 @@
 @@hello, i'm corruptmemry@@
 + с & typescript developer
 - c for soul
-! opensource enjoyer
+! opensource enjoyer & i use gentoo btw
 # 📖 contact me on discord or via email: corruptmemory#1917 // corrupt@yee.pw
-# also check my mastodon https://kijy.de/@corrupt
 ```

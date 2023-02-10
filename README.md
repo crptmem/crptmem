@@ -5,5 +5,6 @@
 + с & typescript developer
 - c for soul
 ! opensource enjoyer & i use gentoo btw
-# 📖 contact me on discord or via email: corruptmemory#1917 // corrupt@yee.pw
+# 📖 contact me on matrix or via email: @corrupt:kijy.de // corrupt@yee.pw
+# btw my gitea https://git.kijy.de/corrupt
 ```

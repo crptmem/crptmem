@@ -5,5 +5,5 @@
 + с & typescript developer
 - c for soul
 ! opensource enjoyer & i use gentoo btw
-# 📖 contact me on matrix or via email: @corrupt:kijy.de // corrupt@kijy.de
+# 📖 contact me on matrix or via email: @corrupt:kijy.de // crpt@kijy.de
 ```

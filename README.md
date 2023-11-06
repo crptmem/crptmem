@@ -7,3 +7,4 @@
 ! opensource enjoyer & i use gentoo btw
 # 📖 contact me on discord or via email: crptmem // crpt@kijy.de
 ```
+

@@ -5,5 +5,5 @@
 + с & golang developer
 - c for soul
 ! opensource enjoyer & i use gentoo btw
-# 📖 contact me on matrix or via email: @corrupt:kijy.de // crpt@kijy.de
+# 📖 contact me on discord or via email: crptmem // crpt@kijy.de
 ```

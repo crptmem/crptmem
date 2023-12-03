@@ -5,6 +5,6 @@
 + с & golang developer
 - c for soul
 ! opensource enjoyer & i use gentoo btw
-# 📖 contact me on discord or via email: crptmem // crpt@kijy.de
+# 📖 contact me by dm on mastodon or e-mail me: @corruptmemory@fedi.kijy.net // corrupt@kijy.net
 ```
 

@@ -5,6 +5,5 @@
 + с & rust developer
 - c for soul
 ! opensource enjoyer & i use gentoo btw
-# contact me on discord: korupiii
 ```
 
